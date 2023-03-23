@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Belarus';
+    src: url('/public/fonts/Belarus-Regular(+bel).otf');
+}
+
+.Brand1 {
+    position: relative;
+    left: -60px;
+    top: 20px;
+
+    font-family: 'Belarus', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 26px;
+
+    color: #030303;
+}
+
+.Brand2 {
+    position: relative;
+    left: -20px;
+
+    font-family: 'Belarus', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 40px;
+
+    /* identical to box height */
+
+    background: linear-gradient(179.72deg, #F06D44 0.24%, #83096F 99.76%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+}
+
+
+.navItem {
+    position: relative;
+    text-decoration: none;
+
+    font-family: 'Oswald', serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+
+    color: #000000;
+}

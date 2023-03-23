@@ -1,0 +1,4 @@
+.myProductCard {
+    outline: 5px solid black;
+    outline-offset: -40px;
+}

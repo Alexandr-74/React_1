@@ -1,0 +1,21 @@
+.cardP {
+    position: relative;
+    bottom: 100px;
+    left: 75px;
+    width: 222px;
+
+    font-family: 'Belarus', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+
+    /* identical to box height */
+
+    background: linear-gradient(0deg, #000000, #000000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    text-align: center;
+}

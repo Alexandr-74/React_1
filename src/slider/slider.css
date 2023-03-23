@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Belarus';
+    src: url('/public/fonts/Belarus-Regular(+bel).otf');
+}
+
+@font-face {
+    font-family: 'Gunny Rewritten';
+    src: url('/public/fonts/gnyrwn971.ttf');
+}
+
+
+.myHForSlider {
+    position: relative;
+    left: 30.15%;
+    right: 34.64%;
+    bottom: 250px;
+    width: 600px;
+
+    font-family: 'Belarus', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 70px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    text-shadow: -4px -4px 20px rgba(0, 0, 0, 0.25), 4px 4px 20px rgba(0, 0, 0, 0.25);
+}
+
+.sliderButton {
+    position: relative;
+    bottom: 200px;
+}
+
+.myButtonForSlider:hover {
+    background: dimgray;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: dimgray;
+    border-color: dimgray;
+}
+
+.carousel-control-prev {
+    color: black;
+}
+
+.carousel-control-prev:hover {
+    color: black;
+}

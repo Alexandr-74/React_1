@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Gunny Rewritten';
+    src: url('/public/fonts/gnyrwn971.ttf');
+}
+
+.myButton {
+    font-family: 'Gunny Rewritten', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+
+    /* H2 */
+    background: white;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: white;
+    background-clip: text;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+}
+
+.myButton:hover {
+    background: dimgray;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: dimgray;
+    border-color: dimgray;
+}

@@ -1,0 +1,27 @@
+.footer {
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.footerH {
+    font-family: 'Oswald', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    /* identical to box height */
+}
+
+.footerP {
+    font-family: 'Oswald', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #BFBFBF;
+    margin: 0;
+}
+
+.phoneNumber {
+    text-decoration-line: underline;
+}

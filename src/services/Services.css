@@ -1,0 +1,30 @@
+.myServiceArea {
+    background: #D8C3A4;
+}
+
+.myServiceCont {
+    outline: 5px solid white;
+    outline-offset: -55px;
+}
+
+.serviceP {
+    position: relative;
+    bottom: 300px;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.servicesH {
+    background: linear-gradient(179.72deg, #F06D44 0.24%, #83096F 99.76%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+
+    font-family: 'Belarus', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 66px;
+}
